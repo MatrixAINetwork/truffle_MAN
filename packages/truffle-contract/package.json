@@ -28,7 +28,7 @@
     "web3": "1.2.1",
     "web3-core-promievent": "1.2.1",
     "web3-eth-abi": "1.2.1",
-    "web3-utils": "1.2.1",
+    "web3-utils": "4.2.1",
     "matrix_utils": "^1.0.0"
   },
   "devDependencies": {
